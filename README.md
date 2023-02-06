@@ -1,1 +1,1 @@
-# lens-webapp
+# Lens Protocol
